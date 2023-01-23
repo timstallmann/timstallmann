@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Tim Stallmann</h1>
-<h3 align="center">Full-stack engineer and movement technologist, currently at [Research Action Design](https://rad.cat/)</h3>
+# Hi 👋, I'm Tim Stallmann
+Full-stack engineer and movement technologist, currently at [Research Action Design](https://rad.cat/)</h3>
 
-<h4>Some of the projects I'm currently working on:</h4>
+Some of the projects I'm currently working on:
 - [the Durham Neighborhood Compass](https://compass.durhamnc.gov)
 - [el Portal Migrante](https://elportalmigrante.org)
 - [Abolish Data Crim](https://abolishdatacrim.org/en)
 
 - 🌱 I’m currently learning **[Network & Computer Security](https://www.engineeringonline.ncsu.edu/course/csc-574-computer-and-network-security/), TypeScript, GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://rad.cat/projects](https://rad.cat/projects)
+- 👨‍💻 All of my projects are available at [rad.cat/projects](https://rad.cat/projects)
 
 - 💬 Ask me about **working with artists in front-end engineering, deduplicating public datasets, or language justice on the web**
 
 - 📫 How to reach me **tim@tim-maps.com**
-
-<h3 align="left">Connect with me:</h3>
+- 
+## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/timstallmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timstallmann" height="30" width="40" /></a>
 </p>
