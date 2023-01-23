@@ -6,7 +6,7 @@ Some of the projects I'm currently working on:
 - [el Portal Migrante](https://elportalmigrante.org)
 - [Abolish Data Crim](https://abolishdatacrim.org/en)
 
-🌱 I’m currently learning **[Network & Computer Security](https://www.engineeringonline.ncsu.edu/course/csc-574-computer-and-network-security/), TypeScript, GraphQL**
+🌱 I’m currently learning **[Network & Computer Security](https://www.engineeringonline.ncsu.edu/course/csc-574-computer-and-network-security/), TypeScript, GraphQL**, and I'm looking for a good excuseto learn Rust and/or Go
 
 💻 Most of my projects are available at [rad.cat/projects](https://rad.cat/projects)
 
