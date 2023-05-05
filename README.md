@@ -1,7 +1,7 @@
 # Hi 👋, I'm Tim Stallmann
-Full-stack engineer and movement technologist, currently at [Research Action Design](https://rad.cat/)</h3>
+Full-stack engineer and movement technologist, currently at [Desmos Studios, PBC](https://desmos.com).
 
-Some of the projects I'm currently working on:
+Some of the projects I worked on (at [Research Action Design](https://rad.cat)):
 - [the Durham Neighborhood Compass](https://compass.durhamnc.gov)
 - [el Portal Migrante](https://elportalmigrante.org)
 - [Abolish Data Crim](https://abolishdatacrim.org/en)
